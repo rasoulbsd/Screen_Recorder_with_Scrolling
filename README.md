@@ -2,31 +2,26 @@
 
 
 
-# Privacy Manager
+# Faramatn
 
 
 ## About
 
-Privacy Manager is a simple tray icon for controling permissions.
-Privacy Manager can help users with managing:
+Faramatn is a blah blah blah Faramatn is a blah blah blah Faramatn is a blah blah blah
+Faramatn is a blah blah blah Faramatn is a blah blah blah Faramatn is a blah blah blah
 
-- Microphone Permission on all over the device
-- Webcam Permission
-- Bluetooth Permission
-- Location Permission 
 
 ## Installing Packages
 
 ```bash
-npm install
+
 ```
 
 ### Setting up development environment
 
 - Run one of the commands below
 ```bash
-npm start .       #
-electron .        #
+
 ```
 
 ## Contribution
