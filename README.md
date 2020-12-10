@@ -1,4 +1,4 @@
-### Note: I am still working on it and it's the first release!
+### Note: Under Development!
 
 
 
