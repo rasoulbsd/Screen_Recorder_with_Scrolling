@@ -1,0 +1,24 @@
+{
+  "name": "Privacy-Concerned",
+  "version": "1.0.0",
+  "description": "a simple application to manage privacy permissions",
+  "author": "rasoulbousaidi@gmail.com",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "build"
+  },
+  "build": {
+    "appId": "com.jamzi.privacymanager",
+    "win": {
+      "target": "squirrel",
+      "icon": "build/icon.ico"
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "latest",
+    "electron-builder": "^22.8.0",
+    "electron-packager": "^15.1.0"
+  }
+}
